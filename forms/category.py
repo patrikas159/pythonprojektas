@@ -1,0 +1,1 @@
+categories = {"Automobiliai":"Automobiliai", "Nekilnojamas turtas":"Nekilnojamas turtas", "Kompiuterinė technika":"Kompiuterinė technika"}
